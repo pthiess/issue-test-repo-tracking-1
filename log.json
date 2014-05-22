@@ -72,7 +72,7 @@
       ]
     },
     "labels": [
-      "Review"
+      "Ship It!"
     ],
     "1400617073000": {
       "removed": [
@@ -89,7 +89,15 @@
       "added": [
         "Review"
       ]
+    },
+    "1400800356000": {
+      "removed": [
+        "Review"
+      ],
+      "added": [
+        "Ship It!"
+      ]
     }
   },
-  "_timestamp": 1400617105000
+  "_timestamp": 1400800356000
 }
